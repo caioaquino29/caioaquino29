@@ -11,5 +11,5 @@
   4. **Cloud**
 - ⚡ Curiosidade: ... Gosto **correr** ao ar livre ouvindo minha **playlist** 🎶🏃‍♂️
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaquino29&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioaquino29&hide_progress=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaquino29&show_icons=true&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioaquino29&hide_progress=true)
